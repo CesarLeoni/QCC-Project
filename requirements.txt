@@ -1,0 +1,7 @@
+qiskit
+qiskit-aer
+pylatexenc
+numpy
+matplotlib<3.8.0
+scipy
+qiskit-ibm-runtime
